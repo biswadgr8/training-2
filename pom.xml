@@ -9,7 +9,7 @@
 	<groupId>com.amdocs</groupId>
 	<artifactId>amdocs-hellorest-api</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>amdocs-hellorest-api</name>
+	<name>The change is done in master</name>
 	<description>Demo project for Spring Boot</description>
 
 	<properties>
