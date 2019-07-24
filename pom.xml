@@ -9,8 +9,12 @@
 	<groupId>com.amdocs</groupId>
 	<artifactId>amdocs-hellorest-api</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+<<<<<<< HEAD
 	<name>The change is done in master</name>
 	<description>Demo project for Spring Boot</description>
+=======
+	<name>This is done in dev1.0</name>	
+>>>>>>> dev-1.0
 
 	<properties>
 		<java.version>1.8</java.version>
